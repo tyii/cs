@@ -9,7 +9,7 @@ therefore seeking to improve my skills and knowledge about other programming lan
 I have completion certificate of 20 hours in linux workshop.                                                                              
 
 
-I am looking forward to my future positively and ambitiously manner with help of allah first then my effort.
+I am looking forward to my future positively and ambitiously manner with help of allah first then my effort.                               
 thank you for your kind attention :) .
 
 contact info :
