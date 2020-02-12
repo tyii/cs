@@ -1,30 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to my Profile 
 
-You can use the [editor on GitHub](https://github.com/tyii/cs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+my name is Abdulaziz Meshari Aldukhayil,I am 20 Years old,and I'm studing Computer Science in Imam Muhammed ibn saud Universitiy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+in this semester me and my colleagues working on our second project which relate to the CS310 course and it is about (Student Attendance).
 
-### Markdown
+I'm interested in java programming and i also have good knowledge about it.i am seeking for knowledge about other programming languages
+I have completion certificate of 20 hours in linux workshop
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+i am looking forard to my future positively and ambitiously manner with help of allah first then my effort
+thank you for your kind attention.
 
-# Header 1
-## Header 2
-### Header 3
+for communication :
+aziiz1999@gmail.com
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -34,4 +28,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. 
